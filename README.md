@@ -2,7 +2,10 @@
 I am Akshay 
 
 🌱 I’m currently learning ...
+
 [![roadmap.sh](https://roadmap.sh/card/wide/6afd3799ac191bfaa28376d3?variant=dark&roadmaps=%2Cmachine-learning)](https://roadmap.sh)
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6afd3799ac191bfaa28376d3?variant=dark&roadmaps=%2Cmachine-learning" alt="roadmap.sh"/></a>
 <!--
 **kaali0001/kaali0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
